@@ -1,0 +1,15 @@
+{
+  "name": "estatehub-india-workspace",
+  "version": "1.0.0",
+  "description": "EstateHub India — Real Estate Management System with Indian Rupee (INR), Google Maps Directions, Guntur HQ, and Instant Secure Buy/Booking Checkout",
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "start:frontend": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed",
+    "build": "npm --prefix frontend run build"
+  },
+  "keywords": ["real-estate", "india", "mern", "vite", "react", "express", "mongodb"],
+  "author": "EstateHub India",
+  "license": "ISC"
+}
+
